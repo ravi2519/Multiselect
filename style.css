@@ -1,0 +1,21 @@
+#selectable .ui-selecting {
+    background: #ccc;
+  }
+  #selectable .ui-selected {
+    background: #999;
+  }
+
+  #selectable {
+    border: 1px solid;
+    margin: 0px;
+    padding: 5px;
+    position: absolute;
+    background: #ffffff;
+    top: 28px;
+    width: 200px;
+  }
+
+  #ms_box {
+    display: grid;
+    width: 200px;
+  }
